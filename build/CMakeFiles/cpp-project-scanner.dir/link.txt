@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/cpp-project-scanner.dir/src/lab.cpp.o -o cpp-project-scanner 
